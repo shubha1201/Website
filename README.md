@@ -7,6 +7,7 @@ Firstly i have created custom VPC to make website more secure,after that i have 
 High Available and scalable - added Auto scaling group
 Fault Tolerance -  added Load Balancer
 Secure  -  Created Custom VPC
+![image](https://user-images.githubusercontent.com/119919864/216815384-2d6371a2-8305-47b4-8991-427eee2c885d.png)
 
 Command used to excute 
 
