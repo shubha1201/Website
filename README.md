@@ -1,4 +1,4 @@
-Website DNS name -  test-elb-619840623.us-east-1.elb.amazonaws.com
+Website DNS name -  test-elb-1446874060.us-east-1.elb.amazonaws.com
 
 Technology used - Terraform
 
